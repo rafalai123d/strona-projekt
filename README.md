@@ -2,6 +2,7 @@
 Innowacyjna platforma do dokumentowania transakcji giełdowych, przeprowadzania analiz, nauki oraz współpracy z agentem Ai w celach udoskonalania umiejętności.
 
 Tradenovel nie świadczy usług doradztwa inwestycyjnego.
+
 -by Rafał Drozda
 
 Otwierać po pobraniu pliku z Google Drive, w przeciwnym razie otwiera tylko kod źródłowy.
