@@ -3,7 +3,7 @@ Innowacyjna platforma do dokumentowania transakcji giełdowych, przeprowadzania 
 
 Tradenovel nie świadczy usług doradztwa inwestycyjnego.
 
--by Rafał Drozda
+- tradenovel by Rafał Drozda
 
 Otwierać po pobraniu pliku z Google Drive, w przeciwnym razie otwiera tylko kod źródłowy.
 
