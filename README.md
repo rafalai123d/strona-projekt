@@ -1,3 +1,9 @@
 # tradenovel
 
 Otwierać po pobraniu pliku w przeciwnym razie otwiera tylko kod źródłowy.
+
+## Prawa autorskie
+
+© 2026 [tradenovel]. Wszelkie prawa zastrzeżone.
+
+Kod źródłowy, grafiki oraz zawartość tego projektu są własnością autora. Kopiowanie, rozpowszechnianie, modyfikowanie lub wykorzystywanie komercyjne całości lub fragmentów projektu bez wyraźnej, pisemnej zgody autora jest zabronione.
