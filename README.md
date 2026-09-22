@@ -4,6 +4,7 @@ Innowacyjna platforma do dokumentowania transakcji giełdowych, przeprowadzania 
 Tradenovel nie świadczy usług doradztwa inwestycyjnego.
 
 -tradenovel by Rafał Drozda & Dawid Chojnacki
+kontakt: https://www.linkedin.com/in/rafał-drozda/
 
 Otwierać po pobraniu pliku z Google Drive, w przeciwnym razie otwiera tylko kod źródłowy.
 
